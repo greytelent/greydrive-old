@@ -1,5 +1,5 @@
 
-![GoIndex Drive](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/go-drive-logo.png)
+![GoIndex Drive](https://raw.githubusercontent.com/greytelent/greydrive-old/master/greydrive.png)
 
 ### Source
 Origin https://github.com/donwa/goindex
@@ -11,9 +11,9 @@ Origin https://github.com/donwa/goindex
 
 #### Screenshot
 Light Theme
-![Light Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-light.png)
+![Light Theme](https://raw.githubusercontent.com/greytelent/greydrive-old/master/screenshot/material-light.png)
 
-Dark Theme![Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
+Dark Theme![Dark Theme](https://raw.githubusercontent.com/greytelent/greydrive-old/master/screenshot/material-dark.png)
 
 ---
 - Light or Dark Themes
