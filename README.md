@@ -1,5 +1,5 @@
 
-![GoIndex Drive](https://raw.githubusercontent.com/greytelent/greydrive-old/master/greydrive.png)
+![greydrive](https://raw.githubusercontent.com/greytelent/greydrive-old/master/greydrive.png)
 
 ### Source
 Origin https://github.com/donwa/goindex
